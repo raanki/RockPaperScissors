@@ -1,4 +1,4 @@
-# RockPaperScissors
+# 📄✂️🪨 RockPaperScissors
 ### A very small JavaScript project exploring the classic game mechanic with a computer.
 
 
