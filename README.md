@@ -2,7 +2,7 @@
 ### A very small JavaScript project exploring the classic game mechanic with a computer.
 
 
-if you want to test go to : [Rock Paper Scissors](https://raanki.github.io/Timer/)
+if you want to test go to : [Rock Paper Scissors](https://raanki.github.io/RockPaperScissors/)
 
 ## Picture :
 
